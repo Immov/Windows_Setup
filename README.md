@@ -10,7 +10,8 @@ Things todo after installing windows 10 pro
 5. Disable network interface
 6.  Control Panel→Internet Options→Lan Settings→Check Proxy Server→Fill fakeproxy:80
 7.  Unpin Start Menu, Taskbar
-8.  Disable privacy (General, Speech, Inking, Diagnostics, Activity, Location, Voice Activation, Acounts, Contacts, Calendar, Phone calls, Task, Messaging, Radios, Other Device, Background Apps(![BG_apps](https://i.imgur.com/83fBfdr.png)), App Diagnostics)
+8.  Disable privacy (General, Speech, Inking, Diagnostics, Activity, Location, Voice Activation, Acounts, Contacts, Calendar, Phone calls, Task, Messaging, Radios, Other Device, Background Apps(), App Diagnostics)
+![BG_apps](https://i.imgur.com/83fBfdr.png)
 9.  Turn off auto driver update via advanced system settings
 10.  Computer Name
 11.  Disable delivery optimization
