@@ -11,8 +11,14 @@ Things todo after installing windows 10 pro
 6.  Control Panel→Internet Options→Lan Settings→Check Proxy Server→Fill fakeproxy:80
 7.  Unpin Start Menu, Taskbar
 8.  Disable privacy (General, Speech, Inking, Diagnostics, Activity, Location, Voice Activation, Acounts, Contacts, Calendar, Phone calls, Task, Messaging, Radios, Other Device, Background Apps(), App Diagnostics)
+
 ![BG_apps](https://i.imgur.com/83fBfdr.png)
+
 9.  Turn off auto driver update via advanced system settings
+
+![image](https://user-images.githubusercontent.com/41504515/183639223-41ff8589-e212-4d46-9b63-6e2d63956082.png)
+
+
 10.  Computer Name
 11.  Disable delivery optimization
 12.  Disable Xbox Stuff
@@ -21,7 +27,9 @@ Things todo after installing windows 10 pro
 15. Disable Sticky Keys (ease of access)
 16. Themes color and desktop Icons. Disable transparency
 17. Change date format(Time and Language). Sync
+
 ![Advance Time Settings](https://i.imgur.com/896wKW9.png)
+
 14. User login using pin
 15. Sign in options, enable Restart Apps
 16. Disable Cloud Search Settings
